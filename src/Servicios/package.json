@@ -1,0 +1,11 @@
+{
+  "name": "servicios",
+  "version": "1.0.0",
+  "description": "servidorWeb Menal",
+  "main": "appBack.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

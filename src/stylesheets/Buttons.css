@@ -1,0 +1,57 @@
+.button-1{
+    width: 140px;
+    height: 50px;
+    margin: 5px 50px 5px 15px;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    color: white;
+    background-color: rgb(95, 79, 201);
+    border-radius: 20px;
+    border: none;
+    font-family: 'Roboto', sans-serif;
+    font-size: 15px;
+    cursor: pointer;
+    user-select: none;
+    transition: all .5s ease;
+    
+}
+
+.button-1:hover{
+    color: rgb(52, 73, 90);
+    border: solid 2px rgb(52, 73, 90);
+    background-color:white;
+    transition: all .5s ease;
+}
+
+.button-2{
+    width: 140px;
+    height: 50px;
+    margin: 5px 50px 5px 15px;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    color: rgb(52, 73, 90);
+    font-family: 'Roboto', sans-serif;
+    font-size: 15px;
+    border-radius:20px ;
+    border: solid 2px rgb(52, 73, 90);
+    background-color: rgb(255, 255, 255);
+    cursor: pointer;
+    user-select: none;
+    transition: all .5s ease;
+}
+
+.button-2:hover{
+    background-color: rgb(52, 73, 90);
+    border: solid 2px rgb(52, 73, 90);
+    color: #ffffff;
+    transition: all .5s ease;
+}
+a{
+    text-decoration: none;
+}
